@@ -18,4 +18,4 @@ Comfortable with Monte Carlo methods, transformer models, statistical modeling, 
 
 Currently building a flight price prediction tool. Otherwise usually working on something involving ML or quantitative finance. Check my repos to see what's currently broken.
 
-[LinkedIn](https://linkedin.com/in/MMillward2012) | [Email](mailto:MMillward2012@gmail.com)
+[LinkedIn](https://linkedin.com/in/matthew-millward2012) | [Email](mailto:MMillward2012@gmail.com)
