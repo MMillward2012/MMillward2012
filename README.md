@@ -8,12 +8,6 @@ Interned at Google DeepMind working on efficient financial NLP pipelines, transf
 
 Studying mathematical finance, stochastic processes, machine learning & neural networks, and decision theory. Currently working on a final year project on reinforcement learning and optimal policy control. Interested in quantitative research and trading. 
 
-## Tech
-
-Python, R | PyTorch, NumPy, Pandas, Git, LaTeX
-
-Comfortable with Monte Carlo methods, transformer models, statistical modeling, advanced probability, and numerical simulation.
-
 ## Projects
 
 Currently building a flight price prediction tool. Otherwise usually working on something involving ML or quantitative finance. Check my repos to see what's currently broken.
